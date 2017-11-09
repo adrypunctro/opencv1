@@ -32,3 +32,6 @@ private static void loadLibraries()
         }
     }
 ```
+
+https://github.com/lessthanoptimal/BoofCV/blob/v0.27/examples/src/boofcv/examples/features/ExampleLineDetection.java
+http://boofcv.org/index.php?title=Main_Page
