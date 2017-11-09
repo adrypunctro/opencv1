@@ -2,7 +2,7 @@
 
 http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html
 
-```
+```java
 private static void loadLibraries()
     {
         try
