@@ -2,6 +2,7 @@
 
 http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html
 
+```
 private static void loadLibraries()
     {
         try
@@ -30,3 +31,4 @@ private static void loadLibraries()
             throw new RuntimeException("Failed to load opencv native library", e);
         }
     }
+```
